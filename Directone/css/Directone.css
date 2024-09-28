@@ -1,0 +1,36 @@
+
+
+.back{
+     background-size: cover;
+     height: 100vh;
+}
+/* .form-control{
+     border: 0;
+     padding: 15px;
+     border-radius: 0;
+} */
+
+@media only screen and (max-width:480px){
+     .back{
+          height: fit-content;
+          background-size: cover;
+      }
+      .navbar{
+          justify-content: space-between;
+          background-color: #151c26;
+      }
+      .navbar-toggler,
+      .navbar-toggler-icon{
+          color: white;
+      }
+
+
+}
+
+
+@media only screen and (max-width:768px){
+
+    
+    
+
+}
